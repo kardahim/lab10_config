@@ -19,4 +19,4 @@ spec:
     spec:
       containers:
         - name: lab10-app
-          image: kardahim/lab10-app:1.0.0
+          image: kardahim/lab10-app:1.0.1
